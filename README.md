@@ -1,5 +1,5 @@
 # employmentprojects
-Every project and programming item for employers to view for professional purposes.
+Every project and programming file for employers to view for professional purposes.
 
 In this project file there will be:
 5 JS projects, start to finish
